@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/verstka1/static/css/main.b096c8ed.chunk.css",
+    "main.js": "/verstka1/static/js/main.af746e32.chunk.js",
+    "main.js.map": "/verstka1/static/js/main.af746e32.chunk.js.map",
+    "runtime-main.js": "/verstka1/static/js/runtime-main.4686e65d.js",
+    "runtime-main.js.map": "/verstka1/static/js/runtime-main.4686e65d.js.map",
+    "static/js/2.f204a647.chunk.js": "/verstka1/static/js/2.f204a647.chunk.js",
+    "static/js/2.f204a647.chunk.js.map": "/verstka1/static/js/2.f204a647.chunk.js.map",
+    "index.html": "/verstka1/index.html",
+    "precache-manifest.5286efd458a8c94d346ee07d473d035f.js": "/verstka1/precache-manifest.5286efd458a8c94d346ee07d473d035f.js",
+    "service-worker.js": "/verstka1/service-worker.js",
+    "static/css/main.b096c8ed.chunk.css.map": "/verstka1/static/css/main.b096c8ed.chunk.css.map",
+    "static/js/2.f204a647.chunk.js.LICENSE.txt": "/verstka1/static/js/2.f204a647.chunk.js.LICENSE.txt",
+    "static/media/Group 90.png": "/verstka1/static/media/Group 90.4d47bba4.png",
+    "static/media/designedImg.png": "/verstka1/static/media/designedImg.16de9a24.png",
+    "static/media/human2.png": "/verstka1/static/media/human2.db9d7cb9.png",
+    "static/media/img.png": "/verstka1/static/media/img.d551a910.png",
+    "static/media/man.png": "/verstka1/static/media/man.54b28d9e.png",
+    "static/media/map.png": "/verstka1/static/media/map.5fcca950.png",
+    "static/media/Header.css": "/verstka1/static/media/particles2.37c59fe5.png",
+    "static/media/phone.png": "/verstka1/static/media/phone.8942a37c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4686e65d.js",
+    "static/js/2.f204a647.chunk.js",
+    "static/css/main.b096c8ed.chunk.css",
+    "static/js/main.af746e32.chunk.js"
+  ]
+}
