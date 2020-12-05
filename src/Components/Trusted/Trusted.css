@@ -1,0 +1,29 @@
+.trusted {
+  width: 100%;
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 25px 0;
+}
+.trusted__title {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 13pt;
+  color: #242f51;
+  font-weight: 500;
+}
+.trusted__companies {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.trusted__companies img {
+  margin-left: 73px;
+}
+/*# sourceMappingURL=Trusted.css.map */

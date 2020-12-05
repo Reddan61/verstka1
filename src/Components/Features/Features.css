@@ -1,0 +1,72 @@
+.features {
+  padding-top: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.features__container {
+  width: 100%;
+  max-width: 1600px;
+  display: flex;
+  justify-content: center;
+}
+@media (max-width: 1400px) {
+  .features__container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+  }
+}
+.features__main {
+  margin-left: 55px;
+}
+.features__title {
+  font-size: 28pt;
+  font-weight: 600;
+  color: #242f51;
+  width: 400px;
+  line-height: 50px;
+}
+.features__text {
+  margin-top: 20px;
+  font-size: 12pt;
+  font-weight: 400;
+  color: #616368;
+  width: 450px;
+}
+.features__items {
+  margin-top: 60px;
+}
+.features__items .item__body {
+  align-items: center;
+  display: flex;
+  margin-bottom: 60px ;
+}
+.features__items .item__image {
+  width: 90px;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}
+.features__items .item__main {
+  margin-left: 20px;
+  width: 300px;
+}
+.features__items .item__title {
+  font-size: 15pt;
+  font-weight: 600;
+}
+.features__items .item__text {
+  margin-top: 10px;
+  color: #616368;
+  font-size: 12pt;
+  font-weight: 400;
+}
+.features__intro {
+  min-height: 200px;
+}
+/*# sourceMappingURL=Features.css.map */

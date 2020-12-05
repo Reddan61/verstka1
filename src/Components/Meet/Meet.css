@@ -1,0 +1,137 @@
+.meet {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border-top: 2px solid #e5e6e5;
+  margin: 100px 0 0;
+  padding: 200px 0 0;
+}
+.meet__body {
+  max-width: 1600px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.meet__main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.meet__intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0;
+  min-width: 650px;
+  max-width: 650px;
+  height: auto;
+}
+.meet__intro .intro__title {
+  font-size: 37pt;
+}
+.meet__intro .intro__text {
+  margin: 20px 0 0;
+  font-size: 13pt;
+  min-width: 550px;
+  max-width: 550px;
+}
+.meet__stars {
+  margin: 40px 0 0;
+}
+.meet__slider {
+  margin: 60px 0 0;
+}
+.about__title {
+  margin: 20px 0 0;
+  color: #242f51;
+  font-size: 20pt;
+  font-weight: 700;
+}
+.about__text {
+  margin: 20px 0 0;
+  color: #616368;
+  font-size: 12pt;
+  max-width: 580px;
+}
+.slider {
+  position: relative;
+  min-width: 620px;
+  max-width: 620px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.slider__main {
+  margin: 0 0 0 25px;
+}
+.slider__fullname {
+  font-size: 16pt;
+  font-weight: 700;
+  color: #242f51;
+  max-width: 250px;
+}
+.slider__position {
+  font-size: 16pt;
+  color: #616368;
+  max-width: 250px;
+}
+.slider__arrows {
+  position: absolute;
+  right: 0;
+  display: flex;
+  align-items: center;
+}
+.slider__stick {
+  margin: 0 0 0 5px;
+  background-color: #e7e7e7;
+  width: 2px;
+  height: 25px;
+}
+.slider__img {
+  min-width: 90px;
+  max-width: 90px;
+  min-height: 90px;
+  max-height: 90px;
+}
+.leftArrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 50px;
+  max-width: 50px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  border: 2px solid #eff3f8;
+}
+.leftArrow_active {
+  background-color: #eff3f8;
+}
+.leftArrow_active img {
+  transform: rotate(180deg);
+}
+.rightArrow {
+  margin: 0 0 0 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 50px;
+  max-width: 50px;
+  height: 50px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  border: 2px solid #eff3f8;
+}
+.rightArrow img {
+  transform: rotate(180deg);
+}
+.rightArrow_active {
+  background-color: #eff3f8;
+}
+.rightArrow_active img {
+  transform: rotate(0);
+}
+/*# sourceMappingURL=Meet.css.map */
